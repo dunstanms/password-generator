@@ -3,4 +3,4 @@
 Author - Dunstan Mmbehero Shivachi
 [Google colab code](https://colab.research.google.com/drive/1Idh09__UB2aAUvmbuiXFtmJirXX3JB-T?usp=sharing)
 
-<img src = https://raw.githubusercontent.com/ubuntustan/password-generator/master/images/password.png)>
+<img src = https://raw.githubusercontent.com/ubuntustan/password-generator/master/images/password.png>
